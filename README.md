@@ -1,6 +1,6 @@
 # npmtest-postcss-scss
 
-#### test coverage for  [postcss-scss (v0.4.1)](https://github.com/postcss/postcss-scss#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-postcss-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-postcss-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-postcss-scss.svg)](https://travis-ci.org/npmtest/node-npmtest-postcss-scss)
+#### basic test coverage for  [postcss-scss (v0.4.1)](https://github.com/postcss/postcss-scss#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-postcss-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-postcss-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-postcss-scss.svg)](https://travis-ci.org/npmtest/node-npmtest-postcss-scss)
 
 #### SCSS parser for PostCSS
 
